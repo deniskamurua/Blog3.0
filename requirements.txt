@@ -25,7 +25,6 @@ Jinja2
 lxml
 MarkupSafe
 mypy-extensions
-os
 packaging
 parse
 psycopg2-binary
