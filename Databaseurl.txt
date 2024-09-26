@@ -1,0 +1,1 @@
+postgresql://root:E0KcYwlaDkBIfbbt1KNswY2wF55UiTVv@dpg-ckr2pjo1hnes73c241bg-a.oregon-postgres.render.com/root_1te5
